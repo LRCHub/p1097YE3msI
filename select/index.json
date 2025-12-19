@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "summer leap",
+  "base_artist": "somunia",
+  "createdAt": "2025-12-19T10:52:46.613774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "summer leap",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/01_summer_leap_somunia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "summer leap (beautiful.dreamer remix) [feat. KOSAKA]",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/02_summer_leap_(beautiful.dreamer_remix)_[feat._KOSAKA]_somunia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "summer leap rework (feat. somunia)",
+      "artist": "gaburyu",
+      "has_synced": true,
+      "path": "select/03_summer_leap_rework_(feat._somunia)_gaburyu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "summer leap rework",
+      "artist": "gaburyu",
+      "has_synced": true,
+      "path": "select/04_summer_leap_rework_gaburyu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "summer leap (beautiful dreamer remix)",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/05_summer_leap_(beautiful_dreamer_remix)_somunia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "summer leap (beautiful dreamer remix) feat. コーサカ",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/06_summer_leap_(beautiful_dreamer_remix)_feat._コーサカ_somunia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "summer leap [feat. KOSAKA] - beautiful.dreamer remix",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/07_summer_leap_[feat._KOSAKA]_-_beautiful.dreamer_remix_somunia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "summer leap",
+      "artist": "somunia",
+      "has_synced": false,
+      "path": "select/pl_01_summer_leap_somunia.txt"
+    }
+  ]
+}
